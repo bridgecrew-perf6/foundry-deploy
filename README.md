@@ -7,7 +7,7 @@ To deploy `ContractA` I ran:
 foundry-deploy - (master) > make deploy-contract contract=src/ContractA.sol:ContractA constructorArgs="1" url=${_69} privateKey=${PRIVATE_KEY}
 
 ```
-where `_69` is Optimisms Kovan network url.
+where `_69` is Optimism Kovan network url.
 
 To verify `ContractA` I ran:
 ```
